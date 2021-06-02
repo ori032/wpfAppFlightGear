@@ -1,6 +1,6 @@
 
 # WpfDeskAppFlightGear
-Link to github-https://github.com/yosi058/WpfAppFlightGear.git
+Link to github-https://github.com/ori032/wpfAppFlightGear
 
 Link for the presentation of Desktop App-https://youtu.be/9PXQ427QCPU
 
@@ -90,7 +90,7 @@ There is a few folders:
 
 --fdm=null.
 
-3.Downloads the project by git clone form https://github.com/yosi058/WpfAppFlightGear.git.
+3.Downloads the project by git clone form https://github.com/ori032/WpfAppFlightGear.git.
 
 4.Make sure you have the Oxplot lib on your project (otherwise-downloads it).
 
